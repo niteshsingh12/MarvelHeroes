@@ -20,6 +20,7 @@ Tech Stack:
 * UI Binding: Combine
 * Unit Tests (for data driven components)
 * Depedency Injection with Factories
+* Collection Views (Compositional Layout), Collection View List Cells, Diffable Data Sources
 
 Notes:
 
